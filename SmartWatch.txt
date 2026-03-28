@@ -1,0 +1,3 @@
+class SmartWatch{
+static string brand("Boot")
+}

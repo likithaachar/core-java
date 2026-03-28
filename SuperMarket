@@ -1,0 +1,22 @@
+class SuperMarket{
+   public static void main(String[]args){
+      byte items=5;
+      Short billNo=101;
+      int amount=50000;
+      long mobileNumber=8765432390L;
+      float discount=15.5f;
+      double totalAmount=2484.75;
+	  char grade='B';
+      boolean payment Status=true;
+      System.out.println("Byte value:"+items);
+      System.out.println("Short value:"+billNo);
+      System.out.println("Int value:"+amount);
+      System.out.println("Long value:"+mobileNumber);
+	  System.out.println("Float value:"+discount);
+      System.out.println("Double value:"+totalAmount);
+      System.out.println("Char value:"+grade);
+	  System.out.println("Boolean value:"+payment Status);
+
+    } 
+
+}
